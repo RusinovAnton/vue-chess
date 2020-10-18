@@ -1,0 +1,304 @@
+{
+  "position": {
+    "a1": "R",
+    "b1": "N",
+    "c1": "B",
+    "d1": "Q",
+    "e1": "K",
+    "f1": "B",
+    "g1": "N",
+    "h1": "R",
+    "a2": "P",
+    "b2": "P",
+    "c2": "P",
+    "d2": "P",
+    "e2": "P",
+    "f2": "P",
+    "g2": "P",
+    "h2": "P",
+    "a7": "P",
+    "b7": "P",
+    "c7": "P",
+    "d7": "P",
+    "e7": "P",
+    "f7": "P",
+    "g7": "P",
+    "h7": "P",
+    "a8": "R",
+    "b8": "N",
+    "c8": "B",
+    "d8": "Q",
+    "e8": "K",
+    "f8": "B",
+    "g8": "N",
+    "h8": "R"
+  },
+  "cells": {
+    "a1": {
+      "cellId": "a1",
+      "color": "black"
+    },
+    "b1": {
+      "cellId": "b1",
+      "color": "white"
+    },
+    "c1": {
+      "cellId": "c1",
+      "color": "black"
+    },
+    "d1": {
+      "cellId": "d1",
+      "color": "white"
+    },
+    "e1": {
+      "cellId": "e1",
+      "color": "black"
+    },
+    "f1": {
+      "cellId": "f1",
+      "color": "white"
+    },
+    "g1": {
+      "cellId": "g1",
+      "color": "black"
+    },
+    "h1": {
+      "cellId": "h1",
+      "color": "white"
+    },
+    "a2": {
+      "cellId": "a2",
+      "color": "white"
+    },
+    "b2": {
+      "cellId": "b2",
+      "color": "black"
+    },
+    "c2": {
+      "cellId": "c2",
+      "color": "white"
+    },
+    "d2": {
+      "cellId": "d2",
+      "color": "black"
+    },
+    "e2": {
+      "cellId": "e2",
+      "color": "white"
+    },
+    "f2": {
+      "cellId": "f2",
+      "color": "black"
+    },
+    "g2": {
+      "cellId": "g2",
+      "color": "white"
+    },
+    "h2": {
+      "cellId": "h2",
+      "color": "black"
+    },
+    "a3": {
+      "cellId": "a3",
+      "color": "black"
+    },
+    "b3": {
+      "cellId": "b3",
+      "color": "white"
+    },
+    "c3": {
+      "cellId": "c3",
+      "color": "black"
+    },
+    "d3": {
+      "cellId": "d3",
+      "color": "white"
+    },
+    "e3": {
+      "cellId": "e3",
+      "color": "black"
+    },
+    "f3": {
+      "cellId": "f3",
+      "color": "white"
+    },
+    "g3": {
+      "cellId": "g3",
+      "color": "black"
+    },
+    "h3": {
+      "cellId": "h3",
+      "color": "white"
+    },
+    "a4": {
+      "cellId": "a4",
+      "color": "white"
+    },
+    "b4": {
+      "cellId": "b4",
+      "color": "black"
+    },
+    "c4": {
+      "cellId": "c4",
+      "color": "white"
+    },
+    "d4": {
+      "cellId": "d4",
+      "color": "black"
+    },
+    "e4": {
+      "cellId": "e4",
+      "color": "white"
+    },
+    "f4": {
+      "cellId": "f4",
+      "color": "black"
+    },
+    "g4": {
+      "cellId": "g4",
+      "color": "white"
+    },
+    "h4": {
+      "cellId": "h4",
+      "color": "black"
+    },
+    "a5": {
+      "cellId": "a5",
+      "color": "black"
+    },
+    "b5": {
+      "cellId": "b5",
+      "color": "white"
+    },
+    "c5": {
+      "cellId": "c5",
+      "color": "black"
+    },
+    "d5": {
+      "cellId": "d5",
+      "color": "white"
+    },
+    "e5": {
+      "cellId": "e5",
+      "color": "black"
+    },
+    "f5": {
+      "cellId": "f5",
+      "color": "white"
+    },
+    "g5": {
+      "cellId": "g5",
+      "color": "black"
+    },
+    "h5": {
+      "cellId": "h5",
+      "color": "white"
+    },
+    "a6": {
+      "cellId": "a6",
+      "color": "white"
+    },
+    "b6": {
+      "cellId": "b6",
+      "color": "black"
+    },
+    "c6": {
+      "cellId": "c6",
+      "color": "white"
+    },
+    "d6": {
+      "cellId": "d6",
+      "color": "black"
+    },
+    "e6": {
+      "cellId": "e6",
+      "color": "white"
+    },
+    "f6": {
+      "cellId": "f6",
+      "color": "black"
+    },
+    "g6": {
+      "cellId": "g6",
+      "color": "white"
+    },
+    "h6": {
+      "cellId": "h6",
+      "color": "black"
+    },
+    "a7": {
+      "cellId": "a7",
+      "color": "black"
+    },
+    "b7": {
+      "cellId": "b7",
+      "color": "white"
+    },
+    "c7": {
+      "cellId": "c7",
+      "color": "black"
+    },
+    "d7": {
+      "cellId": "d7",
+      "color": "white"
+    },
+    "e7": {
+      "cellId": "e7",
+      "color": "black"
+    },
+    "f7": {
+      "cellId": "f7",
+      "color": "white"
+    },
+    "g7": {
+      "cellId": "g7",
+      "color": "black"
+    },
+    "h7": {
+      "cellId": "h7",
+      "color": "white"
+    },
+    "a8": {
+      "cellId": "a8",
+      "color": "white"
+    },
+    "b8": {
+      "cellId": "b8",
+      "color": "black"
+    },
+    "c8": {
+      "cellId": "c8",
+      "color": "white"
+    },
+    "d8": {
+      "cellId": "d8",
+      "color": "black"
+    },
+    "e8": {
+      "cellId": "e8",
+      "color": "white"
+    },
+    "f8": {
+      "cellId": "f8",
+      "color": "black"
+    },
+    "g8": {
+      "cellId": "g8",
+      "color": "white"
+    },
+    "h8": {
+      "cellId": "h8",
+      "color": "black"
+    }
+  },
+  "board": [
+    ["a8", "b8", "c8", "d8", "e8", "f8", "g8", "h8"],
+    ["a7", "b7", "c7", "d7", "e7", "f7", "g7", "h7"],
+    ["a6", "b6", "c6", "d6", "e6", "f6", "g6", "h6"],
+    ["a5", "b5", "c5", "d5", "e5", "f5", "g5", "h5"],
+    ["a4", "b4", "c4", "d4", "e4", "f4", "g4", "h4"],
+    ["a3", "b3", "c3", "d3", "e3", "f3", "g3", "h3"],
+    ["a2", "b2", "c2", "d2", "e2", "f2", "g2", "h2"],
+    ["a1", "b1", "c1", "d1", "e1", "f1", "g1", "h1"]
+  ]
+}
